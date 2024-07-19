@@ -16,7 +16,7 @@ Include instructions on how to clone and use your repository. For example:
 #### Installation
 To clone the repository, use the following command:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+(https://github.com/VishnuPrasanth-A/20_java-programs.git)
 ```
 
 ### Usage:
