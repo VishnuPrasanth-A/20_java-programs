@@ -41,8 +41,6 @@ Include information about the license under which your code is distributed. For 
 ### License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-### Contact:
-Provide a way for users to contact you if they have questions or feedback. For example:
 
 ### Contact
 If you have any questions or feedback, feel free to reach out at [vishnuprasanth.a.agri44@gmil.com](mailto:vishnuprasanth.a.agri44@gmil.com).
